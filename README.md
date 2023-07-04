@@ -8,7 +8,8 @@ A personal portfolio website that showcases my feature projects, technical skill
 
 ## Screenshots
 
-![Portfolio multidevices mockup](https://user-images.githubusercontent.com/4708484/135478774-68358e78-a50c-4cc4-8e84-29874ed549ac.png)
+![Portfolio mockup](https://github.com/KizoFCB/portofolio-main/assets/27281885/1a770b42-ec9f-466c-88ee-f18eb2a83764)
+
 
 ## Core dependencies
 
