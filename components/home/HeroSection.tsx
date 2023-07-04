@@ -24,6 +24,7 @@ export default function Hero({ heroData: t }: { heroData: HeroData }) {
           backgroundImage: {
             lg: `url('/hero-graphic.svg')`,
           },
+          backgroundPosition: '680px 90px',
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'right -2rem bottom',
         }}
