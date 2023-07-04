@@ -37,7 +37,7 @@
         "summary": "Social media platform to sell content and connect with people.",
         "keyFeatures": ["User-friendly design", "Live preview", "Paid content"],
         "technologies": [
-          "NextJS",
+          "Next.JS",
           "Firebase",
           "Material-UI",
           "Stripe",
@@ -85,6 +85,42 @@
           "Live changes"
         ],
         "technologies": ["Material-UI", "TypeScript", "Remix.JS", "Prisma"]
+      },
+      {
+        "name": "Homemeds",
+        "imgPath": "projectMedia/homemeds.png",
+        "imgAlt": "homemeds website preview",
+        "summary": "Doctor and patinet evaluation and engagement system.",
+        "keyFeatures": [
+          "Detailed Reports",
+          "Helpful Charts",
+          "Alerts"
+        ],
+        "technologies": ["Material-UI", "TypeScript", "React.JS", "Apollo","Recharts"]
+      },
+      {
+        "name": "Khatabook",
+        "imgPath": "projectMedia/khatabook.png",
+        "imgAlt": "khatabook website preview",
+        "summary": "an app enabling businesses to digitally record the credit they extend to customers through a ledger.",
+        "keyFeatures": [
+          "Ledger Calculations",
+          "Internationalization",
+          "Strong Performance"
+        ],
+        "technologies": ["Styled Components", "TypeScript", "React.JS", "IndexedDB"]
+      },
+      {
+        "name": "Hello YUMI",
+        "imgPath": "projectMedia/yumi.png",
+        "imgAlt": "yumi website preview",
+        "summary": "A platform for baby products.",
+        "keyFeatures": [
+          "Elegant User Interface",
+          "Quick Navigation",
+          "Large Scale"
+        ],
+        "technologies": ["TypeScript", "Next.JS", "Contentful"]
       }
     ]
   },
