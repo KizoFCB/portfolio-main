@@ -8,7 +8,7 @@
   "heroData": {
     "greetings": "HOLA, ",
     "introduction": "soy Karim Hamdy",
-    "role": "Desarrollador Front-end",
+    "role": "Ingeniero de Front-end Intermedio",
     "paragraph": "Me apasiona programar, y hacer las ideas de mis clientes realidad.",
     "button1": "Revisa mis proyectos",
     "button2": "Contáctame"
@@ -31,69 +31,60 @@
     "portfolioTitle": "Portafolio",
     "projects": [
       {
-        "name": "alacartadigital",
-        "projectUrl": "https://www.alacartadigital.es/",
-        "repoUrl": "https://github.com/alacartadigital-team",
-        "imgPath": "projectMedia/alacartadigital.png",
-        "imgAlt": "Vista previa del sitio alacartadigital en varios dispositivos",
-        "summary": "Plataforma online para menús de restaurantes con integracion QR.",
-        "keyFeatures": [
-          "Dashboard amigable para el usuario",
-          "Vista previa en vivo",
-          "Personalización de marca",
-          "Suscripciones de pago"
-        ],
-        "technologies": ["React", "NextJS", "MongoDB", "Material-UI", "SWR"]
-      },
-      {
-        "name": "Issueless",
-        "projectUrl": "https://issueless.vercel.app",
-        "repoUrl": "https://github.com/kelvinsanchez15/issueless",
-        "imgPath": "projectMedia/issueless.png",
-        "imgAlt": "Vista previa de Issueless",
-        "summary": "Rastreador de problemas (Issue Tracker) inspirado en Github Issues.",
-        "keyFeatures": [
-          "Renderizado híbrido de forma estática (SSG) y en el servidor (SSR)",
-          "Servicios de registro múltiple con OAuth",
-          "Soporte de Markdown",
-          "Tema MUI personalizado"
-        ],
+        "name": "MUAB",
+        "imgPath": "projectMedia/muab.png",
+        "imgAlt": "muab site mocked device preview",
+        "summary": "Social media platform to sell content and connect with people.",
+        "keyFeatures": ["User-friendly design", "Live preview", "Paid content"],
         "technologies": [
-          "React",
           "NextJS",
-          "PostgreSQL",
-          "Prisma",
-          "Material-UI"
+          "Firebase",
+          "Material-UI",
+          "Stripe",
+          "React-Query",
+          "React Hook Form"
         ]
       },
       {
-        "name": "Easybank",
-        "projectUrl": "https://easybank-web.vercel.app/",
-        "repoUrl": "https://github.com/kelvinsanchez15/easybank-landing-page",
-        "imgPath": "projectMedia/easybank.png",
-        "imgAlt": "Vista previa del sitio Easybank",
-        "summary": "Página de producto SAAS completamente responsiva diseñada con Tailwind CSS.",
+        "name": "Flexday",
+        "imgPath": "projectMedia/flexday.png",
+        "imgAlt": "flexday preview",
+        "summary": "A app to book coworking spaces.",
         "keyFeatures": [
-          "Diseño pixel perfect",
-          "Posicionamiento absoluto",
-          "Clases personalizadas"
+          "Immaculant performance",
+          "Straight to the point interface"
         ],
-        "technologies": ["Tailwind", "TypeScript", "React", "NextJS"]
+        "technologies": ["ReactNative", "Firebase"]
       },
       {
-        "name": "BombaiMTY",
-        "projectUrl": "https://bombai-mty-menu.vercel.app/",
-        "repoUrl": "https://github.com/kelvinsanchez15/bombai-menu",
-        "imgPath": "projectMedia/bombai-mty.png",
-        "imgAlt": "Vista previa del sitio BombaiMTY",
-        "summary": "Portal de venta de comida rápida con pagos por WhatsApp.",
+        "name": "Hoya",
+        "imgPath": "projectMedia/hoya.png",
+        "imgAlt": "hoya website preview",
+        "summary": "A robust peer recognition platform.",
         "keyFeatures": [
-          "Filtro de productos",
-          "Carrito de compras",
-          "Foto de portada",
-          "Integración con Google Sheets"
+          "Pixel perfect design",
+          "Absolute positioning",
+          "Infinite scolling"
         ],
-        "technologies": ["Chakra UI", "TypeScript", "React", "NextJS"]
+        "technologies": [
+          "Material-UI",
+          "TypeScript",
+          "React",
+          "Stripe",
+          "React-Query"
+        ]
+      },
+      {
+        "name": "Sadeem",
+        "imgPath": "projectMedia/sadeem.png",
+        "imgAlt": "sadeem website preview",
+        "summary": "Flood monitoring system.",
+        "keyFeatures": [
+          "Sensor filter",
+          "Internationalization",
+          "Live changes"
+        ],
+        "technologies": ["Material-UI", "TypeScript", "Remix.JS", "Prisma"]
       }
     ]
   },

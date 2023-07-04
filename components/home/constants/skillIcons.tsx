@@ -4,18 +4,22 @@ import {
   SiJavascript,
   SiGit,
   SiNodedotjs,
+  SiStyledcomponents,
   SiReact,
   SiRedux,
-  SiMongodb,
-  SiJest,
-  SiMaterialui,
+  SiMui,
   SiBootstrap,
   SiNextdotjs,
-  SiPostgresql,
   SiFirebase,
   SiTailwindcss,
   SiTypescript,
+  SiGatsby,
+  SiRemix,
+  SiContentful,
+  SiGraphql,
+  SiStripe,
 } from 'react-icons/si';
+import { TbBrandReactNative } from 'react-icons/tb';
 
 const skillLogos = [
   {
@@ -39,6 +43,10 @@ const skillLogos = [
     label: 'Git',
   },
   {
+    icon: <SiStripe title="Stripe" />,
+    label: 'Stripe',
+  },
+  {
     icon: <SiReact title="React" />,
     label: 'React',
   },
@@ -55,32 +63,44 @@ const skillLogos = [
     label: 'Node',
   },
   {
-    icon: <SiPostgresql title="PostgreSQL" />,
-    label: 'PostgreSQL',
-  },
-  {
-    icon: <SiMongodb title="MongoDB" />,
-    label: 'MongoDB',
-  },
-  {
     icon: <SiFirebase title="Firebase" />,
     label: 'Firebase',
-  },
-  {
-    icon: <SiJest title="Jest" />,
-    label: 'Jest',
   },
   {
     icon: <SiTailwindcss title="Tailwind CSS" />,
     label: 'Tailwind CSS',
   },
   {
-    icon: <SiMaterialui title="Material UI" />,
+    icon: <SiMui title="Material UI" />,
     label: 'Material UI',
   },
   {
     icon: <SiBootstrap title="Bootstrap" />,
     label: 'Bootstrap',
+  },
+  {
+    icon: <SiStyledcomponents title="Styled Components" />,
+    label: 'Styled Components',
+  },
+  {
+    icon: <SiRemix title="Remix" />,
+    label: 'Remix',
+  },
+  {
+    icon: <SiGatsby title="Gatsby" />,
+    label: 'Gatsby',
+  },
+  {
+    icon: <SiContentful title="Contentful" />,
+    label: 'Contentful',
+  },
+  {
+    icon: <TbBrandReactNative title="React Native" />,
+    label: 'React Native',
+  },
+  {
+    icon: <SiGraphql title="GraphQL" />,
+    label: 'GraphQL',
   },
 ];
 

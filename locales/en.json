@@ -8,7 +8,7 @@
   "heroData": {
     "greetings": "HELLO, ",
     "introduction": "I'm Karim Hamdy",
-    "role": "Front-end Developer",
+    "role": "Mid Level Front-end Engineer",
     "paragraph": "Passionate about coding, and making my client ideas come true.",
     "button1": "Check my work",
     "button2": "Contact me"
@@ -31,69 +31,60 @@
     "portfolioTitle": "Portfolio",
     "projects": [
       {
-        "name": "alacartadigital",
-        "projectUrl": "https://www.alacartadigital.es/",
-        "repoUrl": "https://github.com/alacartadigital-team",
-        "imgPath": "projectMedia/alacartadigital.png",
-        "imgAlt": "alacartadigital site mocked device preview",
-        "summary": "Online restaurant menu platform with QR code integration.",
-        "keyFeatures": [
-          "User-friendly dashboard",
-          "Live preview",
-          "Brand customization",
-          "Paid subscriptions"
-        ],
-        "technologies": ["React", "NextJS", "Firebase", "Material-UI", "Stripe"]
-      },
-      {
-        "name": "Issueless",
-        "projectUrl": "https://issueless.vercel.app",
-        "repoUrl": "https://github.com/kelvinsanchez15/issueless",
-        "imgPath": "projectMedia/issueless.png",
-        "imgAlt": "Issueless preview",
-        "summary": "JAMStack Issue Tracker project inspired on GitHub issues.",
-        "keyFeatures": [
-          "Hybrid static & server rendering",
-          "OAuth sign-in services",
-          "Markdown support",
-          "Custom MUI theme"
-        ],
+        "name": "MUAB",
+        "imgPath": "projectMedia/muab.png",
+        "imgAlt": "muab site mocked device preview",
+        "summary": "Social media platform to sell content and connect with people.",
+        "keyFeatures": ["User-friendly design", "Live preview", "Paid content"],
         "technologies": [
-          "React",
           "NextJS",
-          "PostgreSQL",
-          "Prisma",
-          "Material-UI"
+          "Firebase",
+          "Material-UI",
+          "Stripe",
+          "React-Query",
+          "React Hook Form"
         ]
       },
       {
-        "name": "Easybank",
-        "projectUrl": "https://easybank-web.vercel.app/",
-        "repoUrl": "https://github.com/kelvinsanchez15/easybank-landing-page",
-        "imgPath": "projectMedia/easybank.png",
-        "imgAlt": "Easybank website preview",
-        "summary": "Fully responsive SAAS product landing page designed with Tailwind CSS.",
+        "name": "Flexday",
+        "imgPath": "projectMedia/flexday.png",
+        "imgAlt": "flexday preview",
+        "summary": "A app to book coworking spaces.",
+        "keyFeatures": [
+          "Immaculant performance",
+          "Straight to the point interface"
+        ],
+        "technologies": ["ReactNative", "Firebase"]
+      },
+      {
+        "name": "Hoya",
+        "imgPath": "projectMedia/hoya.png",
+        "imgAlt": "hoya website preview",
+        "summary": "A robust peer recognition platform.",
         "keyFeatures": [
           "Pixel perfect design",
           "Absolute positioning",
-          "Custom classes"
+          "Infinite scolling"
         ],
-        "technologies": ["Tailwind", "TypeScript", "React", "NextJS"]
+        "technologies": [
+          "Material-UI",
+          "TypeScript",
+          "React",
+          "Stripe",
+          "React-Query"
+        ]
       },
       {
-        "name": "BombaiMTY",
-        "projectUrl": "https://bombai-mty-menu.vercel.app/",
-        "repoUrl": "https://github.com/kelvinsanchez15/bombai-menu",
-        "imgPath": "projectMedia/bombai-mty.png",
-        "imgAlt": "BombaiMTY website preview",
-        "summary": "Fast food sales portal with WhatsApp checkout.",
+        "name": "Sadeem",
+        "imgPath": "projectMedia/sadeem.png",
+        "imgAlt": "sadeem website preview",
+        "summary": "Flood monitoring system.",
         "keyFeatures": [
-          "Product filter",
-          "Shopping cart",
-          "Cover photo",
-          "Google Sheets integration"
+          "Sensor filter",
+          "Internationalization",
+          "Live changes"
         ],
-        "technologies": ["Chakra UI", "TypeScript", "React", "NextJS"]
+        "technologies": ["Material-UI", "TypeScript", "Remix.JS", "Prisma"]
       }
     ]
   },
