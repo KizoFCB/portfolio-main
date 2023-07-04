@@ -13,7 +13,7 @@ const socialIcons = [
       </svg>
     ),
     label: 'Github',
-    href: 'https://github.com/kelvinsanchez15',
+    href: 'https://github.com/KizoFCB',
   },
   {
     icon: (
@@ -29,7 +29,7 @@ const socialIcons = [
       </svg>
     ),
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/kelvin-sanchez',
+    href: 'https://www.linkedin.com/in/karim-hamdy-6a097578/',
   },
   {
     icon: (
@@ -45,7 +45,7 @@ const socialIcons = [
       </svg>
     ),
     label: 'Twitter',
-    href: 'https://www.twitter.com/kelvin_sanchez',
+    href: 'https://www.twitter.com/KizoFCB',
   },
 ];
 

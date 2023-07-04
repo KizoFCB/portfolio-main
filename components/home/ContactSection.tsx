@@ -113,7 +113,7 @@ export default function Contact({
         <Box sx={{ display: 'flex', justifyContent: 'center', my: 2 }}>
           <Avatar sx={{ width: 96, height: 96 }}>
             <Image
-              alt="Kelvin Sánchez"
+              alt="Karim Hamdy"
               height={160}
               placeholder="blur"
               src={profilePicture}

@@ -12,7 +12,6 @@ import {
   Menu as MenuIcon,
   Home as HomeIcon,
   Work as WorkIcon,
-  Assignment as AssignmentIcon,
   Mail as MailIcon,
   PermIdentity as PermIdentityIcon,
 } from '@mui/icons-material';
@@ -62,11 +61,6 @@ export default function ElevateAppBar() {
       link: '/#portfolio',
       name: `${router.locale === 'en' ? 'PORTFOLIO' : 'PORTAFOLIO'}`,
       icon: <WorkIcon />,
-    },
-    {
-      link: '/#blog',
-      name: 'BLOG',
-      icon: <AssignmentIcon />,
     },
     {
       link: '/#contact',
