@@ -2,7 +2,7 @@
   "defaultSeo": {
     "title": "Karim Hamdy | Desarrollador front-end",
     "description": "Karim Hamdy es un desarrollador front-end, con experiencia en la creación de sitios y aplicaciones web hermosas y funcionales.",
-    "url": "https://portofolio-main-karimhamdy-kizofcb.vercel.app/",
+    "url": "https://portfolio-main-karimhamdy-kizofcb.vercel.app/",
     "previewImage": "https://user-images.githubusercontent.com/4708484/93688063-050a8980-fa91-11ea-89ca-3530a9038393.png"
   },
   "heroData": {
@@ -31,96 +31,46 @@
     "portfolioTitle": "Portafolio",
     "projects": [
       {
-        "name": "MUAB",
-        "imgPath": "projectMedia/muab.png",
-        "imgAlt": "muab site mocked device preview",
-        "summary": "Social media platform to sell content and connect with people.",
-        "keyFeatures": ["User-friendly design", "Live preview", "Paid content"],
-        "technologies": [
-          "Next.JS",
-          "Firebase",
-          "Material-UI",
-          "Stripe",
-          "React-Query",
-          "React Hook Form"
-        ]
+        "name": "React Custom Chart",
+        "imgPath": "projectMedia/rcc.gif",
+        "imgAlt": "rcc preview",
+        "summary": "A simple custom chart for React.",
+        "keyFeatures": [
+          "User-friendly design",
+          "Strong performance",
+          "Intuitive usage"
+        ],
+        "technologies": ["React.JS", "TypeScript"]
       },
       {
-        "name": "Flexday",
-        "imgPath": "projectMedia/flexday.png",
-        "imgAlt": "flexday preview",
-        "summary": "A app to book coworking spaces.",
+        "name": "Sadaqat",
+        "imgPath": "projectMedia/sadaqat.png",
+        "imgAlt": "sadaqat preview",
+        "summary": "An AI enabled charity platform.",
         "keyFeatures": [
           "Immaculant performance",
-          "Straight to the point interface"
+          "Straight to the point interface",
+          "Simple design",
+          "Sophisticated searching",
+          "Chart visualization"
         ],
-        "technologies": ["ReactNative", "Firebase"]
+        "technologies": ["React", "Redux", "Axios"]
       },
       {
-        "name": "Hoya",
-        "imgPath": "projectMedia/hoya.png",
-        "imgAlt": "hoya website preview",
-        "summary": "A robust peer recognition platform.",
-        "keyFeatures": [
-          "Pixel perfect design",
-          "Absolute positioning",
-          "Infinite scolling"
-        ],
-        "technologies": [
-          "Material-UI",
-          "TypeScript",
-          "React",
-          "Stripe",
-          "React-Query"
-        ]
+        "name": "Vehicle Management System",
+        "imgPath": "projectMedia/vms.png",
+        "imgAlt": "vms website preview",
+        "summary": "A simple vehicle management platform.",
+        "keyFeatures": ["Pixel perfect design", "Absolute positioning"],
+        "technologies": ["Redux Toolkit", "React", "Axios", "Jest"]
       },
       {
-        "name": "Sadeem",
-        "imgPath": "projectMedia/sadeem.png",
-        "imgAlt": "sadeem website preview",
-        "summary": "Flood monitoring system.",
-        "keyFeatures": [
-          "Sensor filter",
-          "Internationalization",
-          "Live changes"
-        ],
-        "technologies": ["Material-UI", "TypeScript", "Remix.JS", "Prisma"]
-      },
-      {
-        "name": "Homemeds",
-        "imgPath": "projectMedia/homemeds.png",
-        "imgAlt": "homemeds website preview",
-        "summary": "Doctor and patinet evaluation and engagement system.",
-        "keyFeatures": [
-          "Detailed Reports",
-          "Helpful Charts",
-          "Alerts"
-        ],
-        "technologies": ["Material-UI", "TypeScript", "React.JS", "Apollo","Recharts"]
-      },
-      {
-        "name": "Khatabook",
-        "imgPath": "projectMedia/khatabook.png",
-        "imgAlt": "khatabook website preview",
-        "summary": "an app enabling businesses to digitally record the credit they extend to customers through a ledger.",
-        "keyFeatures": [
-          "Ledger Calculations",
-          "Internationalization",
-          "Strong Performance"
-        ],
-        "technologies": ["Styled Components", "TypeScript", "React.JS", "IndexedDB"]
-      },
-      {
-        "name": "Hello YUMI",
-        "imgPath": "projectMedia/yumi.png",
-        "imgAlt": "yumi website preview",
-        "summary": "A platform for baby products.",
-        "keyFeatures": [
-          "Elegant User Interface",
-          "Quick Navigation",
-          "Large Scale"
-        ],
-        "technologies": ["TypeScript", "Next.JS", "Contentful"]
+        "name": "Gatsby Contentful",
+        "imgPath": "projectMedia/gc.png",
+        "imgAlt": "gc website preview",
+        "summary": "A simple JAMStack blog example.",
+        "keyFeatures": ["Simple blog", "Fast response time"],
+        "technologies": ["Gatsby.JS", "TypeScript", "Contentful"]
       }
     ]
   },

@@ -1,6 +1,6 @@
 ## View project
 
-[https://portofolio-main-karimhamdy-kizofcb.vercel.app/](https://portofolio-main-karimhamdy-kizofcb.vercel.app/)
+[https://portfolio-main-karimhamdy-kizofcb.vercel.app/](https://portfolio-main-karimhamdy-kizofcb.vercel.app/)
 
 ## About the project
 
